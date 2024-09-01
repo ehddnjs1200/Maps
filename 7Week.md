@@ -2,7 +2,7 @@
 
 인벤토리 기능 구현 (완료)
 
-![스크린샷](screenshot.png)
+![스크린샷](Screenshot.png)
 
 <구현한 리포지토리>  
 [https://github.com/ehddnjs1200/Object](https://github.com/ehddnjs1200/Object)
